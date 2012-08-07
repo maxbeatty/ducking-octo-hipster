@@ -98,7 +98,8 @@ strong {
 }
 
 ul li {
-  list-style: inside;
+  list-style: none;
+  float: left;
   padding-left: 25px;
 }
 
